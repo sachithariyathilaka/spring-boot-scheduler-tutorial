@@ -6,13 +6,13 @@ Spring boot scheduler tutorial project.
     * Spring Boot 3.4.2
     * Maven
 
-* ### Configuration
-    * [Medium Story](https://sachithariyathilaka.medium.com/spring-boot-scheduler-1036540d793d)
+* ### Documentation
+    * [Read on Medium](https://sachithariyathilaka.medium.com/spring-boot-scheduler-1036540d793d)
 
 * ### Release Note
 
-    * Release: 1.0.0
-    * Date: 2025/01/25
+    * Version: 1.0.0
+    * Release Date: 2025/01/25
     * Module: Spring Boot Scheduler Tutorial
     * Changes
         * Implements the cron job scheduler.
